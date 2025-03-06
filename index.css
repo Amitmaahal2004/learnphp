@@ -1,0 +1,40 @@
+.inner-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+span {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+button.my-button {
+    height: 30px;
+    width: 6%;
+}
+
+
+button {
+    height: 26px;
+    /* margin-top: 20px; */
+}
+
+.inner-two {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.header-inner-sect {
+    background-color: blue;
+}
+
+
+.out {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
